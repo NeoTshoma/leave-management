@@ -1,4 +1,36 @@
 ﻿<Properties StartupConfiguration="{8773C7CC-D319-4EAA-9B78-E29C1AE24186}|Default">
-  <MonoDevelop.Ide.ItemProperties.LeaveManagement FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LeaveManagement FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeaveManagement/Properties/launchSettings.json">
+    <Files>
+      <File FileName="LeaveManagement/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="LeaveManagement/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="LeaveManagement/Views/_ViewImports.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeaveManagement" expanded="True">
+            <Node name="LeaveManagement" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
