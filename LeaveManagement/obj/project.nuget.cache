@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fia+dPngVkQjy5vD7X6cZIG51HYtsEPyvb4EdJRuWXtmHZkKGou3PjlO/9dwmbMqDI1R88mEWmHI8E6eFBG4sg==",
+  "dgSpecHash": "FzAGk4x2dUZGNqzVfusufKmO4gL+hiQoK8c04Fxh2RUw+1NVg27W/pwD4crAbImtosL17jPRQpR+Ta8hFY3D3w==",
   "success": true,
   "projectFilePath": "/Users/neo/Projects/LeaveManagement/LeaveManagement/LeaveManagement.csproj",
   "expectedPackageFiles": [
     "/Users/neo/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/Users/neo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "/Users/neo/.nuget/packages/font.awesome/5.15.4/font.awesome.5.15.4.nupkg.sha512",
     "/Users/neo/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/neo/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
     "/Users/neo/.nuget/packages/messagepack.annotations/2.1.152/messagepack.annotations.2.1.152.nupkg.sha512",
