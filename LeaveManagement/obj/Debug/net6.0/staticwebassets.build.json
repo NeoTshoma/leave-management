@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rouqoNErvGvDCqIn49I3pyzMOCk2nuKYRk6E/+mHuRM=",
+  "Hash": "vAvy9lO9e2bs1tulUpZky9ZzbhrsCY+5GWbF7R+iBW4=",
   "Source": "LeaveManagement",
   "BasePath": "_content/LeaveManagement",
   "Mode": "Default",
@@ -2089,6 +2089,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/neo/Projects/LeaveManagement/LeaveManagement/wwwroot/lib/sweetalert/sweetalert.min.js",
+      "SourceId": "LeaveManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/neo/Projects/LeaveManagement/LeaveManagement/wwwroot/",
+      "BasePath": "_content/LeaveManagement",
+      "RelativePath": "lib/sweetalert/sweetalert.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/sweetalert/sweetalert.min.js"
     }
   ]
 }

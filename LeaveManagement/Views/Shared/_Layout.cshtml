@@ -33,10 +33,10 @@
                                 Leave Management
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">Leave Types</a></li>
-                                <li><a class="dropdown-item" href="#">Leave Allocations</a></li>
-                                <li><a class="dropdown-item" href="#">Leave Requests</a></li>
-                                <li><a class="dropdown-item" href="#">Employee Management</a></li>
+                                <li><a class="dropdown-item" asp-controller="LeaveType" asp-action="Index">Leave Types</a></li>
+                                <li><a class="dropdown-item" asp-controller="LeaveType" asp-action="">Leave Allocations</a></li>
+                                <li><a class="dropdown-item" asp-controller="LeaveType" asp-action="Create">Leave Requests</a></li>
+                                <li><a class="dropdown-item" asp-controller="LeaveType" asp-action="">Employee Management</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -58,6 +58,7 @@
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/sweetalert/sweetalert.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
