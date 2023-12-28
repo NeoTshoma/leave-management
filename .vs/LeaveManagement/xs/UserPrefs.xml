@@ -1,31 +1,30 @@
-﻿<Properties StartupConfiguration="{8773C7CC-D319-4EAA-9B78-E29C1AE24186}|Default" GitUserInfo="UsingGIT">
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" GitUserInfo="UsingGIT" StartupConfiguration="{8773C7CC-D319-4EAA-9B78-E29C1AE24186}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LeaveManagement/Views/LeaveType/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeaveManagement/Program.cs">
     <Files>
-      <File FileName="LeaveManagement/Controllers/LeaveTypeController.cs" />
-      <File FileName="LeaveManagement/Views/LeaveType/Index.cshtml" Line="45" Column="1" />
-      <File FileName="LeaveManagement/Views/Shared/_Layout.cshtml" />
+      <File FileName="LeaveManagement/appsettings.json" />
+      <File FileName="LeaveManagement/appsettings.Development.json" />
+      <File FileName="LeaveManagement/Program.cs" Line="1" Column="1" />
+      <File FileName="LeaveManagement/Data/ApplicationDbContext.cs" Line="17" Column="1" />
+      <File FileName="LeaveManagement/Data/Employee.cs" Line="6" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LeaveManagement" expanded="True">
-            <Node name="LeaveManagement" expanded="True" selected="True">
-              <Node name="Views" expanded="True">
-                <Node name="LeaveType" expanded="True" />
-                <Node name="Shared" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True" />
+            <Node name="LeaveManagement" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.LeaveManagement PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
