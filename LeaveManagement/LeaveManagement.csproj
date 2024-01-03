@@ -19,6 +19,8 @@
     <None Remove="Repositories\" />
     <None Remove="Configurations\Entities\" />
     <None Remove="Pomelo.EntityFrameworkCore.MySql" />
+    <None Remove="Constants\" />
+    <None Remove="Services\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
@@ -44,5 +46,7 @@
     <Folder Include="Contracts\" />
     <Folder Include="Repositories\" />
     <Folder Include="Configurations\Entities\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 </Project>
